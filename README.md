@@ -99,7 +99,7 @@ The project is deployed on **GitHub Pages** and freely available to everyone at:
 
 **Crafted with ❤️ by ☄Ṡ̸̚̕͝EI̵͎͎̝͐F̴̅**
 
-[![GitHub](https://img.shields.io/badge/GitHub-875seif-181717?style=for-the-badge&logo=github)(https://github.com/857seif)
+[![GitHub](https://img.shields.io/badge/GitHub-857seif-181717?style=for-the-badge&logo=github)](https://github.com/857seif)
 
 *⭐ If you enjoy CineBox, don't forget to leave a star!*
 
